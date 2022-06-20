@@ -1,0 +1,20 @@
+.page {
+  min-height: 100vh;
+  height: 100vh;
+  background-color: #ffffff;
+  position: relative;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+
+  &__header {
+
+  }
+
+  &__main {
+
+  }
+
+  &__footer {
+
+  }
+}

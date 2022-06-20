@@ -1,0 +1,46 @@
+// COLOR
+$primary-color-400: #9c47ff;
+$primary-color-500: #6002ee;
+$primary-color-700: #0000ba;
+
+$secondary-color-400: #66fff9;
+$secondary-color-500: #03DAC6;
+$secondary-color-700: #00a896;
+
+$error-color-500: #b00020;
+
+$primary-bg-color: #fffffff;
+$surface-bg-color: #fffffff;
+
+$on-primary-color: #fffffff;
+$on-secondary-color: #fffffff;
+
+$on-primary-bg-color: #fffffff;
+$on-surface-bg-color: #fffffff;
+$on-error-color: #fffffff;
+
+// BREAKPOINTS
+$breakpoints: (
+        retina: 2560px,
+        xxl: 1920px,
+        xl: 1439.98px,
+        lg: 1200px,
+        md: 1024px,
+        sm: 768px,
+        xs: 576px,
+        xxs: 420px,
+        min-screen: 320px,
+);
+
+// MAIN CONTAINER CONFIG
+$m-container-max-width: 1920px;
+
+$m-container-padding: 10px;
+$m-container-padding-xxs: 14px;
+$m-container-padding-xs: 24px;
+$m-container-padding-sm: 40px;
+$m-container-padding-md: 24px;
+$m-container-padding-lg: 75px;
+$m-container-padding-xl: 120px;
+$m-container-padding-xxl: 220px;
+$m-container-padding-retina: 14px;
